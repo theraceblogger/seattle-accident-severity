@@ -18,3 +18,7 @@ Seaborn version: 0.9.0
 Scipy version: 1.4.1
 
 Sklearn version: 0.20.3
+
+### URL for Data
+
+'https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClass/DP0701EN/version-2/Data-Collisions.csv'
