@@ -1,7 +1,6 @@
-# Coursera_Capstone
-Capstone project for IBM data science
+# Predicting Accident Severity in Seattle
 
-This capstone project involves accident severity data from Seattle's department of transportation. The Introduction and Data files are separated for purposes of grading each individually. These sections will be included in the final file. The project involves exploring the data provided and gaining insights into details about collisions in the city of Seattle. It will also build a predictive model that will categorize accident severity based on out of sample data.
+This project uses data from Seattle's Department of Transportation to train a machine learning algorithm to predict injury in future accidents. After importing the data and analyzing it with charts and graphs, the data is prepared for machine learning by dealing with missing values, encoding, normalizing, undersampling, categorizing and feature selection. I have used 5 types of classifiers: logistic regression, decision tree, k-nearest neighbors, random forest and support vector machine. K-nearest neighbors performed the best with 69% accuracy. I conclude with the factors that contribute to whether an accident will have injury or not, and ideas for a safer Seattle.
 
 ### Dependencies
 * Python version: 3.7.3
